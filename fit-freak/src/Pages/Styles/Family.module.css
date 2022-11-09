@@ -1,0 +1,27 @@
+.family_text {
+    color: white;
+    margin-top: 30px;
+}
+.background1 {
+    margin: auto;
+    background-image: url("https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_600,q_auto:eco,dpr_1,f_auto,fl_progressive//image/test/join-the-cult/career-at-cult.png");
+    background-size:cover;
+}
+.background2 {
+    background-size:cover;
+    background-image: url("https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_600,q_auto:eco,dpr_1,f_auto,fl_progressive//image/test/join-the-cult/cult-for-business.png");
+}
+.gradient {
+    background: linear-gradient(to right, #f8e539 0%, #ac0888 100%);
+    background-clip: text;
+	-webkit-text-fill-color: transparent;
+    display: block;
+    color:white;
+    letter-spacing: 0.01px; 
+    line-height:60px;
+}
+.text {
+    margin-top: 50px;
+    color: white;
+    line-height: 35px;
+}

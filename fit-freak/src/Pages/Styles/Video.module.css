@@ -1,0 +1,17 @@
+.video {
+    transform-style: preserve-3d;
+    will-change: transform;
+    vertical-align: baseline;
+    transform: scale3d(1, 1, 1);
+    z-index: 2;
+}
+.content {
+    display: block;
+    width: 100%;
+    transition: opacity 600ms ease 0s;
+    position: relative;
+    object-fit: cover;
+    height: 100vh;
+    will-change: transform;
+    opacity: 1;
+}
