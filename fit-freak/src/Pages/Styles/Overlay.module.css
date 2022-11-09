@@ -1,0 +1,70 @@
+.overlay {
+    position: absolute;
+    width:100%;
+    height: 100vh;
+    top: 0px;
+}
+.cult {
+    position: absolute;
+    top: 30vh;
+    left:38%;
+    /* margin-top: 18%; */
+    width:25%;
+}
+.svg1 {
+    width: 600px;
+    opacity: 1;
+    animation-duration: 500ms;
+    animation-timing-function: ease-in;
+    animation-delay: 0s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: none;
+    animation-play-state: running;
+}
+.svg2 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 600px;
+    opacity: 1;
+    animation-duration: 1250ms;
+    animation-timing-function: ease-in;
+    animation-delay: 0s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: none;
+    animation-play-state: running;
+}
+.overlay_text {
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    position: absolute;
+    bottom: 90px;
+    left: 30%;
+    width: 40%;
+    cursor: default;
+    margin: 0;
+    color: white;
+    font-size: 30px;
+    font-family: Inter-Medium,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+    letter-spacing: 0.01px;
+    line-height: 38px;
+    margin-bottom: 25px;
+    z-index: 2;
+}
+.button {
+    display: block;
+    margin: auto;
+    text-align: center;
+    position: absolute;
+    bottom: 30px;
+    z-index: 2;
+    
+}
+.blend {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}

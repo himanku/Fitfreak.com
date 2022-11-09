@@ -1,0 +1,58 @@
+.animated1 {
+    width: 100%;
+    margin: auto;
+    margin-top: 50px;
+}
+.animated2 {
+    width: 100%;
+    margin: auto;
+}
+.animated_div1, .animated_div2 {
+    width: 478px;
+    margin: auto;
+    border-radius: 30px;
+}
+.text1 {
+    display: block;
+    margin: auto;
+    width: 70%;
+    text-align: center;
+    cursor: default;
+    letter-spacing: -1px;
+    z-index: 1;
+    color: rgb(145, 141, 141);
+}
+.text2 {
+    display: block;
+    margin: auto;
+    width: 70%;
+    text-align: center;
+    cursor: default;
+    letter-spacing: -1px;
+    z-index: 1;
+    color: rgb(255, 255, 255);
+}
+.animated_divx {
+    width: 478px;
+    margin: auto;
+    margin-top: 0px;
+}
+.animated_grid1 {
+    margin: auto;
+    margin-top: 50px;
+}
+.animated_grid_div1, .animated_grid_div2, .animated_grid_div3, .animated_grid_div4 {
+    margin: auto;
+}
+.animated_grid_div1 > img, .animated_grid_div2 > img, .animated_grid_div3 > img, .animated_grid_div4 > img {
+    border-radius: 20px;
+}
+.box {
+    width: 100%;
+    background-image: url("https://assets-global.website-files.com/5e469aaf314e562ff1146d3f/60405c359f020e6af48e0c39_HP3%20Ball%202.png");
+    overflow: hidden;
+}
+.background {
+    background-image: url("https://avatars.mds.yandex.net/get-lpc/1364677/a7800f28-9893-4a67-92cb-4708b8f8d5b1/orig");
+    background-size: contain;      
+}

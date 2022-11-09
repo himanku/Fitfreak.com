@@ -1,0 +1,26 @@
+.pass {
+    border-radius: 20px;
+    border: 1px solid rgb(83, 80, 80);
+    height: 250px;
+    width: 283px;
+    padding: 20px;
+    margin: auto;
+    background-color: rgba(32, 32, 44, 0.938);
+    transition: 0.3s;
+}
+.pass:hover {
+    transform:scale(1.2)
+}
+.pass > img {
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
+.grid {
+    margin: auto;
+    margin-top: 50px;
+    width: 80%;
+}
+.pass > p {
+    margin: 30px 15px 0 15px;
+}
