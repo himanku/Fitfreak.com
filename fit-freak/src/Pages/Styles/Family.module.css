@@ -8,6 +8,7 @@
     background-size:cover;
 }
 .background2 {
+    margin: auto;
     background-size:cover;
     background-image: url("https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_600,q_auto:eco,dpr_1,f_auto,fl_progressive//image/test/join-the-cult/cult-for-business.png");
 }
@@ -21,7 +22,24 @@
     line-height:60px;
 }
 .text {
-    margin-top: 50px;
+    margin-top: 30px;
     color: white;
     line-height: 35px;
+}
+.background1, .background2 {
+    transition: 0.3s;
+}
+.background1:hover, .background2:hover {
+    transform: scale(1.09);
+}
+.quote {
+    align-items:center;
+    justify-content:flex-end;
+    background-size: 100% 100%;
+    background-image: url("https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_1000,q_auto:eco,dpr_1,f_auto,fl_progressive//image/test/we_are_cult_new.svg");
+    letter-spacing: -0.3px;
+    margin-top: 30px;
+}
+.quote>div {
+    color: rgba(255, 255, 255, 0.692);
 }

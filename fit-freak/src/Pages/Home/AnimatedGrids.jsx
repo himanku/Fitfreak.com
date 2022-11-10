@@ -14,10 +14,10 @@ const AnimatedGrids = () => {
                 <Box data-aos="fade-right" width={{base: "180px", md:"100%", lg: "100%"}} className={styles.animated_grid_div1}>
                     <Image width="100%" src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_200,q_auto:eco,dpr_1,f_auto,fl_progressive/image/test/trainer-parallax/tile-1.png" alt="alt-img"/>
                 </Box>
-                <Box data-aos="zoom-in" width={{base: "100%", md:"100%", lg: "100%"}} className={styles.animated_grid_div2}>
+                <Box data-aos="zoom-in" width={{base: "80%", md:"100%", lg: "100%"}} className={styles.animated_grid_div2}>
                     <Image width="100%" src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_200,q_auto:eco,dpr_1,f_auto,fl_progressive/image/test/trainer-parallax/tile-2.png" alt="alt-img"/>
                 </Box>
-                <Box data-aos="zoom-in" width={{base: "100%", md:"100%", lg: "100%"}} className={styles.animated_grid_div3}>
+                <Box data-aos="zoom-in" width={{base: "80%", md:"100%", lg: "100%"}} className={styles.animated_grid_div3}>
                     <Image width="100%" src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_200,q_auto:eco,dpr_1,f_auto,fl_progressive/image/test/trainer-parallax/tile-3.png" alt="alt-img"/>
                 </Box>
                 <Box data-aos="fade-left" width={{base: "180px", md:"100%", lg: "100%"}} className={styles.animated_grid_div4}>
