@@ -315,5 +315,415 @@
       "discount": "61 % OFF",
       "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/vtg2iiscHQwMC3K1Dd6C8ztf"
     }
+  ],
+  "spinbikes": [
+    {
+      "id": 1,
+      "label": "spinbikes",
+      "tag": "FREAKSPORT",
+      "title": "Smartbike c1: Bluetooth enabled spin bike with 8-level magnetic resistance",
+      "price": 22999,
+      "striked": 40999,
+      "discount": "44 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/vX1Vgko9H9n3Nn3rdyQnNkrb"
+    },
+    {
+      "id": 2,
+      "label": "spinbikes",
+      "tag": "FREAKSPORT",
+      "title": "Smartbike c2: Bluetooth enabled spin bike with stepless magnetic resistance",
+      "price": 24999,
+      "striked": 44899,
+      "discount": "44% % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/nTvMdcZi5B2MzrXZJicv7acr"
+    },
+    {
+      "id": 3,
+      "label": "spinbikes",
+      "tag": "FREAKSPORT",
+      "title": "OFP-1000, 8 Level Magnetic Resistance Spin Bike",
+      "price": 16999,
+      "striked": 39999,
+      "discount": "58 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/sXN22jSrs137eB5AfGDJQHGX"
+    },
+    {
+      "id": 4,
+      "label": "spinbikes",
+      "tag": "FREAKSPORT",
+      "title": "RPM600 (30lbs Flywheel) Spinner Exercise Bike",
+      "price": 17999,
+      "striked": 40599,
+      "discount": "56 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/Uj6ddom12vrNdYi1dmD8hrVQ"
+    },
+    {
+      "id": 5,
+      "label": "spinbikes",
+      "tag": "FREAKSPORT",
+      "title": "SmartBIKE C3: Bluetooth enabled spin bike with stepless magnetic resistance",
+      "price": 33499,
+      "striked": 50599,
+      "discount": "34 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/hLRHejipikjgepcD8ittFXBB"
+    },
+    {
+      "id": 6,
+      "label": "spinbikes",
+      "tag": "FREAKSPORT",
+      "title": "SmartBIKE C3: Bluetooth enabled spin bike with stepless magnetic resistance",
+      "price": 33499,
+      "striked": 50599,
+      "discount": "34 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/x4H5oZvc2DVoVQ7QzPeF38Ww"
+    },
+    {
+      "id": 7,
+      "label": "spinbikes",
+      "tag": "FREAKSPORT",
+      "title": "SmartBIKE C3: Bluetooth enabled spin bike with stepless magnetic resistance",
+      "price": 33499,
+      "striked": 50599,
+      "discount": "34 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/djUn3pQu1MiDgjAFUwMDuNRX"
+    },
+    {
+      "id": 8,
+      "label": "spinbikes",
+      "tag": "FREAKSPORT",
+      "title": "SmartBIKE C3: Bluetooth enabled spin bike with stepless magnetic resistance",
+      "price": 33499,
+      "striked": 50599,
+      "discount": "34 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/SH2C5YdLTPJuRNN3gPiQpgrX"
+    }
+  ],
+  "treadmills" : [
+    {
+      "id": 1,
+      "label": "treadmills",
+      "tag": "FREAKSPORT",
+      "title": "Smartrun c1: Bluetooth enabled treadmill with 6-level incline",
+      "price": 36999,
+      "striked": 68999,
+      "discount": "46% % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/GpeKVjiXj2nnH9eafrutHxfm"
+    },
+    {
+      "id": 2,
+      "label": "treadmills",
+      "tag": "FREAKSPORT",
+      "title": "Smartrun c2: Bluetooth enabled treadmill with 15-level auto incline",
+      "price": 24999,
+      "striked": 44899,
+      "discount": "44% % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/yHz1nfjmiafpYRHeTMiBfB9A"
+    },
+    {
+      "id": 3,
+      "label": "treadmills",
+      "tag": "FREAKSPORT",
+      "title": "FT200S 4.5HP DC Motorized Treadmill",
+      "price": 31499,
+      "striked": 75000,
+      "discount": "58% % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/FsezbKx6Tyj3DAXyHa7bL6hu"
+    },
+    {
+      "id": 4,
+      "label": "treadmills",
+      "tag": "FREAKSPORT",
+      "title": "OFP-M1, 100 Level Magnetic Resistance Spin Bike",
+      "price": 20999,
+      "striked": 59999,
+      "discount": "65% % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/x4H5oZvc2DVoVQ7QzPeF38Ww"
+    },
+    {
+      "id": 5,
+      "label": "treadmills",
+      "tag": "FREAKSPORT",
+      "title": "OFP-M1, 100 Level Magnetic Resistance Spin Bike",
+      "price": 20999,
+      "striked": 59999,
+      "discount": "65% % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/yBNzxLVwzR2NxzQAe8YaPuhB"
+    },
+    {
+      "id": 6,
+      "label": "treadmills",
+      "tag": "FREAKSPORT",
+      "title": "OFP-M1, 100 Level Magnetic Resistance Spin Bike",
+      "price": 20999,
+      "striked": 59999,
+      "discount": "65% % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/1yXoxdPdZ1vgBFuodDPF3hzD"
+    },
+    {
+      "id": 7,
+      "label": "treadmills",
+      "tag": "FREAKSPORT",
+      "title": "OFP-M1, 100 Level Magnetic Resistance Spin Bike",
+      "price": 20999,
+      "striked": 59999,
+      "discount": "65% % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/seAiaurLCyxuFEZYCGF9M93L"
+    },
+    {
+      "id": 8,
+      "label": "treadmills",
+      "tag": "FREAKSPORT",
+      "title": "OFP-M1, 100 Level Magnetic Resistance Spin Bike",
+      "price": 20999,
+      "striked": 59999,
+      "discount": "65% % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/fmLdSA6A9LnGt87evVESC2i9"
+    }
+  ],
+  "topwear" : [
+    {
+      "id": 1,
+      "label": "topwear",
+      "tag": "FREAKSPORT",
+      "title": "Vitals Running T-Shirt",
+      "price": 1180,
+      "striked": 1499,
+      "discount": "21 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/mU1dZAHqT6pjRn55ZWYvq6Mf"
+    },
+    {
+      "id": 2,
+      "label": "topwear",
+      "tag": "FREAKSPORT",
+      "title": "Graphic Print Workout Tshirt",
+      "price": 959,
+      "striked": 1599,
+      "discount": "40 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/8vVR6uLBQSmX2vMsh6hfkXT2"
+    },
+    {
+      "id": 3,
+      "label": "topwear",
+      "tag": "FREAKSPORT",
+      "title": "Solid Active Tshirt with Logo",
+      "price": 494,
+      "striked": 899,
+      "discount": "45 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/anBREptvxVED3KMUSXcPpTen"
+    },
+    {
+      "id": 4,
+      "label": "topwear",
+      "tag": "FREAKSPORT",
+      "title": "Textured Performance Tshirt with Logo",
+      "price": 549,
+      "striked": 999,
+      "discount": "45 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/jsnGp3tbniZqKagkt9g9tgRz"
+    },
+    {
+      "id": 5,
+      "label": "topwear",
+      "tag": "FREAKSPORT",
+      "title": "Vitals Running T-shirt",
+      "price": 803,
+      "striked": 1199,
+      "discount": "33 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/pzqQRku8Axetp7P65ZuKHoAe"
+    },
+    {
+      "id": 6,
+      "label": "topwear",
+      "tag": "FREAKSPORT",
+      "title": "Vitals Running T-shirt",
+      "price": 803,
+      "striked": 1199,
+      "discount": "33 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/pzqQRku8Axetp7P65ZuKHoAe"
+    },
+    {
+      "id": 7,
+      "label": "topwear",
+      "tag": "FREAKSPORT",
+      "title": "Vitals Running T-shirt",
+      "price": 974,
+      "striked": 1299,
+      "discount": "25 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/Xo67e9x3seScD9KCxJ27sDPj"
+    },
+    {
+      "id": 8,
+      "label": "topwear",
+      "tag": "FREAKSPORT",
+      "title": "Vitals Running T-shirt",
+      "price": 974,
+      "striked": 1299,
+      "discount": "25 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/mDr56tYNkgQK63wPpKCgjh8D"
+    }
+  ],
+  "bottomwear" : [
+    {
+      "id": 1,
+      "label": "bottomwear",
+      "tag": "FREAKSPORT",
+      "title": "AbsoluteFit Floral Print Tights",
+      "price": 1264,
+      "striked": 2299,
+      "discount": "45 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/RFyrru9EALTw3JQBbEd8UHZA"
+    },
+    {
+      "id": 2,
+      "label": "bottomwear",
+      "tag": "FREAKSPORT",
+      "title": "AbsoluteFit Floral Print Tights",
+      "price": 1264,
+      "striked": 2299,
+      "discount": "45 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/F6pDyqk8axpX6S6Eket6kTFs"
+    },
+    {
+      "id": 3,
+      "label": "bottomwear",
+      "tag": "FREAKSPORT",
+      "title": "AbsoluteFit Floral Print Tights",
+      "price": 1264,
+      "striked": 2299,
+      "discount": "45 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/jLu5hJW6W3nu9MQ7PVaXQNFR"
+    },
+    {
+      "id": 4,
+      "label": "bottomwear",
+      "tag": "FREAKSPORT",
+      "title": "AbsoluteFit Floral Print Tights",
+      "price": 1264,
+      "striked": 2299,
+      "discount": "45 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/t5VpnpDQrsKVPHRUYgAiTgFL"
+    },
+    {
+      "id": 5,
+      "label": "bottomwear",
+      "tag": "FREAKSPORT",
+      "title": "AbsoluteFit Floral Print Tights",
+      "price": 1264,
+      "striked": 2299,
+      "discount": "45 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/htjEJCau5FfPzq6orYWXz1vb"
+    },
+    {
+      "id": 6,
+      "label": "bottomwear",
+      "tag": "FREAKSPORT",
+      "title": "AbsoluteFit Floral Print Tights",
+      "price": 1264,
+      "striked": 2299,
+      "discount": "45 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/CzkwPB7mxuse6dYR66kUCpa5"
+    },
+    {
+      "id": 7,
+      "label": "bottomwear",
+      "tag": "FREAKSPORT",
+      "title": "AbsoluteFit Floral Print Tights",
+      "price": 1264,
+      "striked": 2299,
+      "discount": "45 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/xnVH5ZjMvv51Dxc7i8z7w3Gt"
+    },
+    {
+      "id": 8,
+      "label": "bottomwear",
+      "tag": "FREAKSPORT",
+      "title": "AbsoluteFit Floral Print Tights",
+      "price": 1264,
+      "striked": 2299,
+      "discount": "45 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/iK5BVWbaQ6KoEt1hwBUMuCdq"
+    }
+  ],
+  "health&nutrition" : [
+    {
+      "id": 1,
+      "label": "health&nutrition",
+      "tag": "FREAKSPORT",
+      "title": "Cultsport Raw Whey 80% Protein, 908g",
+      "price": 1899,
+      "striked": 2699,
+      "discount": "29 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/DcaecB4PJ3kJKtDL18m4gzbA"
+    },
+    {
+      "id": 2,
+      "label": "health&nutrition",
+      "tag": "FREAKSPORT",
+      "title": "Cultsport Raw Whey Mass Gainer, 800g",
+      "price": 1899,
+      "striked": 2699,
+      "discount": "29 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/7NDUqVUrKSMkeULoXQSptLs6"
+    },
+    {
+      "id": 3,
+      "label": "health&nutrition",
+      "tag": "FREAKSPORT",
+      "title": "Cultsport Raw Whey 80% Protein, 908g",
+      "price": 1899,
+      "striked": 2699,
+      "discount": "29 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/6avFYgdSxkj3AKJiS6nbXLU1"
+    },
+    {
+      "id": 4,
+      "label": "health&nutrition",
+      "tag": "FREAKSPORT",
+      "title": "Cultsport Raw Whey 80% Protein, 908g",
+      "price": 1899,
+      "striked": 2699,
+      "discount": "29 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/4gUCtbuHsPaUtCem2uqZZDUZ"
+    },
+    {
+      "id": 5,
+      "label": "health&nutrition",
+      "tag": "FREAKSPORT",
+      "title": "Cultsport Raw Whey 80% Protein, 908g",
+      "price": 1899,
+      "striked": 2699,
+      "discount": "29 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/96T9f13kUMuksgadqCbZC1Ys"
+    },
+    {
+      "id": 6,
+      "label": "health&nutrition",
+      "tag": "FREAKSPORT",
+      "title": "Cultsport Raw Whey 80% Protein, 908g",
+      "price": 1899,
+      "striked": 2699,
+      "discount": "29 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/VDxmyWjWBtLAsoecqfLURGkg"
+    },
+    {
+      "id": 7,
+      "label": "health&nutrition",
+      "tag": "FREAKSPORT",
+      "title": "Cultsport Raw Whey 80% Protein, 908g",
+      "price": 1899,
+      "striked": 2699,
+      "discount": "29 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/dEm3BbpXDbAjwLgmAHy31goB"
+    },
+    {
+      "id": 8,
+      "label": "health&nutrition",
+      "tag": "FREAKSPORT",
+      "title": "Cultsport Raw Whey 80% Protein, 908g",
+      "price": 1899,
+      "striked": 2699,
+      "discount": "29 % OFF",
+      "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/pRp8iwsz7dgcAFRFLFSWPJiu"
+    }
   ]
 }

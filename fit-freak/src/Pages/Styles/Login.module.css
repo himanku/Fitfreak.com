@@ -1,0 +1,15 @@
+.login {
+    height: 100vh ;
+    justify-content:center ;
+    align-items: center;
+    background-color: #171A26;
+    background-size: contain;
+    position: relative;
+    background-image: url("https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_1200,q_auto:eco,dpr_1,f_auto,fl_progressive/image/test/trainer-parallax/text-backdrop-overlay.svg");
+}
+.login>div {
+    transition: 0.3s;
+}
+.login>div:hover {
+    transform:scale(1.05)
+}

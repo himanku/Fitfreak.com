@@ -14,8 +14,8 @@ const Overlay = () => {
                 </path>
                 <defs>
                     <linearGradient id="paint0_linear_6391_14874" x1="-27" y1="140" x2="768.964" y2="587.997" gradientUnits="userSpaceOnUse">
-                        <stop stop-color="#111D27" stop-opacity="0"></stop>
-                        <stop offset="1" stop-color="#FBD94C"></stop>
+                        <stop stopColor="#111D27" stopOpacity="0"></stop>
+                        <stop offset="1" stopColor="#FBD94C"></stop>
                     </linearGradient>
                 </defs>
             </svg>
