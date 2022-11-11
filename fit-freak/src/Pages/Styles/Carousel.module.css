@@ -1,0 +1,40 @@
+.carousel {
+    font-family: Poppins-Bold,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+    font-style: italic;
+    font-size: 30px;
+    line-height: 30px;
+    letter-spacing: 1px;
+    font-weight: bolder;
+}
+.carousel+div {
+    color: #ff3278;
+    font-size: 17px;
+}
+.title {
+    line-height: 20px;
+    margin-top: 10px;
+    font-family: Inter-Medium,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+    color: #262626;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-weight: 600;
+    height: 38px;
+}
+.discount {
+    color: #ff3278;
+    font-family: Inter-Bold,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+    font-weight: 600;
+    white-space: no-wrap;
+}
+.price {
+    color: #262626;
+    font-family: Inter-SemiBold,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+    font-weight: bold;
+    white-space: no-wrap;
+}
+.striked {
+    color: rgb( 0 0 0 / 60%);
+    font-family: Inter-Medium,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+    text-decoration: line-through;
+    white-space: no-wrap;
+}
