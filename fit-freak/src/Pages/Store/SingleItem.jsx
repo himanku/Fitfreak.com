@@ -1,17 +1,28 @@
-import { useParams } from "react-router-dom";
-import React, { useEffect } from "react";
+import { Link, useParams } from "react-router-dom";
+import React, { useEffect, useContext } from "react";
 import ItemImages from "./ItemImages";
 import { Box, Button, Flex, Input, InputGroup, InputRightElement, ListItem, Text, UnorderedList } from "@chakra-ui/react";
 import NavbarStore from "./NavbarStore";
 import styles from "../Styles/NavbarStore.module.css";
+import Footer1 from "../Footer/Footer1";
+import {CartContext} from "../../Context/CartContext/CartContextProvider";
+import {addToCart} from "../../Context/CartContext/action";
 
 const getData = (url) => {
   return fetch(url).then((res) => res.json());
 };
 
+const itemAlreadyExists = (id,cartItem) => {
+    if(cartItem.find((item)=>item.id===id)) {
+      return true;
+    }
+    return false;
+  }
+
 const SingleItem = () => {
   const { id } = useParams();
   const [details, setDetails] = React.useState([]);
+  const {state, dispatch} = useContext(CartContext);
 
   useEffect(() => {
     getData(`http://localhost:8080/bestsellers/${id}`)
@@ -25,7 +36,7 @@ const SingleItem = () => {
   return (
     <> 
       <NavbarStore/>
-      <Flex mt="50px" direction={{base:"column", md:"row", lg:"row"}}>
+      <Flex mt="50px" mb="40px" direction={{base:"column", md:"row", lg:"row"}}>
         <Box width={{base:"100%",md:"60%",lg:"60%"}}>
             <ItemImages 
                 img1={details.img1}
@@ -61,8 +72,13 @@ const SingleItem = () => {
             <Text ml="25px" fontSize="13px" textAlign="left">Choose size</Text>
             <Button mt="10px" ml="25px" display="block" borderRadius="20px" colorScheme="orange" variant="outline">ALL</Button>
             <Flex gap={4} mt="15px">
-                <button className={styles.addcart}>Add to cart</button>
-                <button className={styles.viewcart}>View cart</button>
+                <button className={styles.addcart}
+                        onClick={()=>dispatch(addToCart(details))}
+                        disabled={itemAlreadyExists(details.id, state)} 
+                        >
+                        Add to cart
+                </button>
+                <button className={styles.viewcart}><Link to="/cart">View cart</Link></button>
             </Flex>
             <Text className={styles.details}>PRODUCT DETAILS</Text>
             <UnorderedList className={styles.detailedlist}>
@@ -95,7 +111,7 @@ const SingleItem = () => {
             </UnorderedList>
         </Box>
       </Flex>
-      
+      <Footer1/>
     </>
   );
 };

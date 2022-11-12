@@ -23,14 +23,16 @@ const Login = () => {
     const successAlert2 = () => {
         Swal.fire({  
             title: 'Login Successful',  
-            icon: 'success'
+            icon: 'success',
+            confirmButtonColor: "#ff3278"
           }); 
     }
     const failureAlert = () => {
         Swal.fire ({
             title: "Wrong Credentials",
             text: "Please try again",
-            icon: "error"
+            icon: "error",
+            confirmButtonColor: "#ff3278"
         })
     }
 

@@ -24,7 +24,7 @@ const FAQs = () => {
                         <AccordionIcon color="#ff3278" />
                     </AccordionButton>
                     </h2>
-                    <AccordionPanel pb={4} w="60%" textAlign='left' ml="10px">
+                    <AccordionPanel pb={4} w={{base:"80%",md:"60%"}} textAlign='left' ml="10px">
                     cultsport from the house of fit-freak aims to make health easy by providing smart fitness products for the everyday athlete.  Designed to give you the best workout experience, the cultsport product range includes sportswear, at-home workout equipments, bicycles & nutraceutical. 
                     </AccordionPanel>
                 </AccordionItem>
@@ -42,7 +42,7 @@ const FAQs = () => {
                         <AccordionIcon color="#ff3278" />
                     </AccordionButton>
                     </h2>
-                    <AccordionPanel pb={4} w="60%" textAlign='left' ml="10px">
+                    <AccordionPanel pb={4} w={{base:"80%",md:"60%"}} textAlign='left' ml="10px">
                     cultsport has a wide range of smart fitness products across categories. Each of the products is crafted to create you workout exprience better. Be it the moisture-wicking technology in our apparel, extra soft and light insole in our footwear, smart tracking in the outdoor cycle or progress tracker in our home equipment. cultsport aims to give you products that look good and have even better quality. With our post-sale assembly & installation service, we make sure you have a delightful experience from when you add to cart till when it's delivered.
                     </AccordionPanel>
                 </AccordionItem>
