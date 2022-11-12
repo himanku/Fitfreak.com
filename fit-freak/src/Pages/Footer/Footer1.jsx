@@ -4,7 +4,7 @@ import img from "../Images/ftiFreak-dark-theme.png"
 
 const Footer1 = () => {
     return (
-        <Box padding="70px" backgroundColor="#000" color="rgba(255, 255, 255, 0.692)">
+        <Box padding={{base:"20px",md:"70px" }}backgroundColor="#000" color="rgba(255, 255, 255, 0.692)">
             <Grid templateColumns={{base:"repeat(1,1fr)",md:"repeat(1,1fr)",lg:"repeat(5,1fr)"}} gap={3} justifyContent="flex-start" p="20px">
                 <GridItem pr="30px">
                     <Image w="150px" src={img} alt="logo"/>

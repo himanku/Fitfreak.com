@@ -81,6 +81,7 @@
     padding: 10px 0;
     text-align: center;
     width: 100%;
+    transition: 0.3s;
 }
 .details {
     color: rgb(74, 74, 74);
@@ -110,4 +111,19 @@
     opacity: 0.24;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+.border>div:last-child {
+    border-bottom: 1px solid black;
+}
+.checkout {
+    background-image: linear-gradient(103deg,#f74530,#ff2e73);
+    border: 0;
+    border-radius: 31px;
+    color: #fff;
+    margin-top: 50px;
+    padding: 12px 40px;
+    transition: 0.3s;
+}
+.checkout:hover,.addcart:hover, .viewcart:hover {
+    transform: scale(1.09);
 }

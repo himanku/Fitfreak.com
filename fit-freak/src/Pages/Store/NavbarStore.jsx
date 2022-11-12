@@ -26,7 +26,7 @@ const NavbarStore = () => {
                 </Flex>
                 <Flex pr="10px" justifyContent="space-between" width={{base:"150px", md: "150px", lg:"100px"}} alignItems="center">
                     <Box>
-                        <Image w="26px" h="26px" src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_26,ar_1,q_auto:eco,dpr_2,f_auto,fl_progressive/image/cultsport/prod/Profile.svg" alt="profile"/>
+                        <Link to="/login"><Image w="26px" h="26px" src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_26,ar_1,q_auto:eco,dpr_2,f_auto,fl_progressive/image/cultsport/prod/Profile.svg" alt="profile"/></Link>
                     </Box>
                     <Box>
                         <Link to="/cart"><Image w='24px' src="https://static.cure.fit/assets/images/cart-icon-new.svg" alt="cart"/></Link>

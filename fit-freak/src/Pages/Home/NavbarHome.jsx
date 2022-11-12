@@ -14,7 +14,8 @@ const NavbarHome = () => {
     const successAlert = () => {
         Swal.fire({  
             title: 'Already Logged in',  
-            icon: 'success'
+            icon: 'success',
+            confirmButtonColor: "#ff3278"
           }); 
     }
     const handleClick = () => {
@@ -30,7 +31,7 @@ const NavbarHome = () => {
                 <Flex ml="10px">
                     <Link to="/"><Image width="150px" height="50px" src={darkimg} alt="fit-freak-logo"/></Link>
                 </Flex>
-                <Flex width={{base:"60%", md:"35%",lg:"35%"}} fontSize={{base:"14px", md:"16px", lg:"18px"}} className={styles.links_flex}>
+                <Flex width={{base:"50%", md:"35%",lg:"35%"}} fontSize={{base:"14px", md:"16px", lg:"18px"}} className={styles.links_flex}>
                     <Flex >FITNESS</Flex>
                     <Flex>CARE</Flex>
                     <Flex>MIND</Flex>
