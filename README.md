@@ -7,7 +7,7 @@ Deployment link (netlify) - https://cult-fit-freak.netlify.app/
 
 ### Functionalities:
 
-* Developed the store section & the product preview page
+* Landing page, Store Page, Product preview page
 * User authentication
 * Add to cart, delete from cart, check out functionalities
 * Responsive web-design
